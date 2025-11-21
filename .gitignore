@@ -1,0 +1,26 @@
+# === Node.js backend ===
+/Backend/node_modules/
+Backend/.env
+Backend/.env.*
+Backend/dist/
+Backend/build/
+Backend/coverage/
+Backend/npm-debug.log*
+Backend/yarn-debug.log*
+Backend/yarn-error.log*
+
+# === React frontend ===
+/Frontend/node_modules/
+Frontend/.env
+Frontend/.env.*
+Frontend/build/
+Frontend/.cache/
+
+# === Common ===
+.vscode/
+.idea/
+*.log
+logs/
+.DS_Store
+Thumbs.db
+*.pem
